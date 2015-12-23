@@ -6,6 +6,16 @@ alias .....="cd ../../../.."
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
+# git aliases from Lab 11
+alias gs='git status'
+alias ga='git add'
+alias gb='git branch'
+alias gc='git commit'
+alias gd='git diff'
+alias gh='git hist'
+alias gm='git commit -m'
+alias go='git checkout'
+
 # Shortcuts
 alias d="cd ~/dropbox"
 alias dl="cd ~/Downloads"
